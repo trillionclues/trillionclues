@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 👋 Hi, I’m @trillionclues
+- 👋 I’m @trillionclues
 - 😄 Pronouns: HE/HIM
 - 🌱 Super interested in mobile Development
 - 👯 I’m looking to collaborate on Open Source projects
