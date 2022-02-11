@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Frontend Frameworks
 - 📫 How to reach me: <br /> 
-<a href="mailto:osmonova.kanyshai@gmail.com">
+<a href="mailto:exceln646@gmail.com">
   <img align="left" alt="Excel Nwachukwu" | Email" width="22px" src="https://www.svgrepo.com/show/92674/email.svg" />
 </a>
 <a href="https://www.instagram.com/trillion_clues/">
