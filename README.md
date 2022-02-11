@@ -9,7 +9,7 @@
 <a href="mailto:osmonova.kanyshai@gmail.com">
   <img align="left" alt="Excel Nwachukwu" | Email" width="22px" src="https://www.svgrepo.com/show/92674/email.svg" />
 </a>
-<a href="https://www.instagram.com/trillionclues_/">
+<a href="https://www.instagram.com/trillion_clues/">
   <img align="left" alt="Excel" | Instagram" width="22px" src="https://www.svgrepo.com/show/111199/instagram.svg" />
 </a>
 <a href="https://twitter.com/trillionclues">
