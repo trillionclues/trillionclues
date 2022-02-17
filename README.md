@@ -9,16 +9,16 @@
 <a href="mailto:exceln646@gmail.com">
   <img align="left" alt="Excel Nwachukwu" | Email" width="22px" src="https://www.svgrepo.com/show/92674/email.svg" />
 </a>
-<a href="https://www.instagram.com/trillion_clues/">
+<a href="https://www.instagram.com/trillion_clues/" target="_blank">
   <img align="left" alt="Excel" | Instagram" width="22px" src="https://www.svgrepo.com/show/111199/instagram.svg" />
 </a>
-<a href="https://twitter.com/trillionclues">
+<a href="https://twitter.com/trillionclues" target="_blank">
   <img align="left" alt="{Excell.near}" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/trillionclues-excel/">
+<a href="https://www.linkedin.com/in/trillionclues-excel/" target="_blank">
   <img align="left" alt="Excel's LinkedIN" | width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://web.facebook.com/trillionclues.excel/">
+<a href="https://web.facebook.com/trillionclues.excel/" target="_blank">
   <img align="left" alt="Excel's Facebook" | width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <br />
