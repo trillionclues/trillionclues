@@ -1,11 +1,19 @@
-![](https://komarev.com/ghpvc/?username=trillionclues&color=blue&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=trillionclues&color=grey&label=PROFILE+VIEWS)
 [![Github](https://img.shields.io/github/followers/trillionclues?label=Follow&style=social)](https://github.com/trillionclues)
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm {Excel}
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently working on a Netflix clone
-- 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with Frontend Frameworks
-- 📫 How to reach me: <br /> 
+</br>
+
+### Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm honored t have you on my GitHub! :octocat:
+
+<p>A curious cat transitioning from the Energy industry</p>
+
+- 🌱 I'm actively learning Javascript...
+- 🌱 while also working on clone projects and side ideas
+- 👯 I’m super excited about collaborating on Open Source Projects
+
+ 📫 Care to talk over email? <br /> 
+ 
+ </br>
+ 
 <a href="mailto:exceln646@gmail.com">
   <img align="left" alt="Excel Nwachukwu" | Email" width="22px" src="https://www.svgrepo.com/show/92674/email.svg" />
 </a>
