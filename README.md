@@ -2,9 +2,9 @@
 [![Github](https://img.shields.io/github/followers/trillionclues?label=Follow&style=social)](https://github.com/trillionclues)
 </br>
 
-### Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm honored t have you on my GitHub! :octocat:
+### Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm honored to have you on my GitHub! :octocat:
 
-<p>A curious cat transitioning from the Energy industry</p>
+<h2>Curious cat transitioning from the Energy industry...</h2>
 
 - 🌱 I'm actively learning Javascript...
 - 🌱 while also working on clone projects and side ideas
