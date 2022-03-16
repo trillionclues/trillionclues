@@ -26,6 +26,7 @@
 <a href="https://www.linkedin.com/in/trillionclues-excel/" target="_blank">
   <img align="left" alt="Excel's LinkedIN" | width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br />
 
 
 ### languages and tools: 
