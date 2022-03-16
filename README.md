@@ -27,7 +27,6 @@
   <img align="left" alt="Excel's LinkedIN" | width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
 
 ### languages and tools: 
 <code><img height="20" alt="html5" src="https://cdn.worldvectorlogo.com/logos/html-1.svg?style=flat-square&logo=github-actions&logoColor=white" /></code>
