@@ -1,8 +1,6 @@
 
 
-###<h1 align="center"> Hi there</h1> :octocat:
-
-<h2>Curious cat transitioning from the Energy industry...</h2>
+<h1 align="center"> Hi there :octocat:</h1>
 
 - 🌱 I'm actively learning Javascript...
 - 🌱 while also working on clone projects and side ideas
