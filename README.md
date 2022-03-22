@@ -1,22 +1,22 @@
 
 
-<h1 align="center"> Hi there, I'm Excel Nwachukwu :octocat:</h1>
-<a align="center" href="mailto:exceln646@gmail.com">
-  <img align="left" alt="Excel Nwachukwu" | Email" width="22px" src="https://www.svgrepo.com/show/92674/email.svg" />
-</a>
-<a align="center" href="https://twitter.com/trillionclues" target="_blank">
-  <img align="left" alt="{Excell.near}" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a align="center" href="https://www.linkedin.com/in/trillionclues-excel/" target="_blank">
-  <img align="left" alt="Excel's LinkedIN" | width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
+<div align="center">
+<h1> Hi there, I'm Excel Nwachukwu :octocat:</h1>
+
+<a href="mailto:exceln646@gmail.com">Email</a>
+<a href="https://twitter.com/trillionclues"> • Twitter</a>
+<a href="https://www.linkedin.com/in/trillionclues-excel/"> • LinkedIn</a>
+</div>
+ 
 </br>
-
+<div>
 <p>✨ I'm a frontend engineer and content curator transitioning from the energy industry but passionate about making the web accessible and solution-based interfaces to everyone and advocating for early-stage tech integration in our student communities.</p>
 
-<p>I love sharing my knowledge with others, and I do that through content creation on my tech Blog as well as writing technical articles too. I'm actively working on my skills as well as conducting community workshops and symposiums for communities and institutions looking to bridge the student knowledge gap on choosing career choices. I mostly find fun playing COD games and exploring new locations when I'm not coding.</p>
+<p>I love sharing my knowledge with others, and I do that through content creation on my tech Blog as well as writing technical articles. I'm actively working on my soft skills through conducting community workshops and symposiums for communities and institutions looking to bridge the student knowledge gap on choosing career choices. I mostly find fun playing COD games and exploring new locations when I'm not coding.</p>
+  </div>
 
+  </br>
 - 🌱 I'm actively learning Javascript...
 - 🌱 while also working on clone projects and side ideas.
 - 💬 Ask me anything on FE, Building career choices and Autos.
