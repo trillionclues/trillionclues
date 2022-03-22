@@ -17,6 +17,8 @@
 <a href="https://www.linkedin.com/in/trillionclues-excel/" target="_blank">
   <img align="left" alt="Excel's LinkedIN" | width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+
 ![](https://komarev.com/ghpvc/?username=trillionclues&color=grey&label=PROFILE+VIEWS)
 [![Github](https://img.shields.io/github/followers/trillionclues?label=Follow&style=social)](https://github.com/trillionclues)
 </br>
@@ -30,5 +32,5 @@
 <br />
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=trillionclues&theme=tokyonight"> <img  align="left" src="https://github-readme-stats.vercel.app/api?username=trillionclues&count_private=true&show_icons=true&theme=tokyonight" /></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=trillioncues&hide=php&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trillionclues&hide=php&theme=tokyonight" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=trillioncues&hide=php&theme=tokyonight"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trillionclues&hide=php&theme=tokyonight" /></a>
 </div>
