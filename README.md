@@ -10,13 +10,13 @@
  
  
 <a align="center" href="mailto:exceln646@gmail.com">
-  <img align="left" alt="Excel Nwachukwu" | Email" width="22px" src="https://www.svgrepo.com/show/92674/email.svg" />
+  <img align="center" alt="Excel Nwachukwu" | Email" width="22px" src="https://www.svgrepo.com/show/92674/email.svg" />
 </a>
 <a align="center" href="https://twitter.com/trillionclues" target="_blank">
-  <img align="left" alt="{Excell.near}" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="center" alt="{Excell.near}" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a align="center" href="https://www.linkedin.com/in/trillionclues-excel/" target="_blank">
-  <img align="left" alt="Excel's LinkedIN" | width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Excel's LinkedIN" | width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
