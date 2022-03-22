@@ -1,11 +1,11 @@
-<styles>
+<style>
 h1, h2 {
  display: flex;
  flex-direction: center;
  justify-content: center;
  align-items: center;
  }
-</styles>
+</style>
 
 ### Hi there :octocat:
 
