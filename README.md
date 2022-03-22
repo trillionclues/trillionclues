@@ -1,13 +1,6 @@
-<style>
-h1, h2 {
- display: flex;
- flex-direction: center;
- justify-content: center;
- align-items: center;
- }
-</style>
 
-### Hi there :octocat:
+
+###<h1 align="center"> Hi there</h1> :octocat:
 
 <h2>Curious cat transitioning from the Energy industry...</h2>
 
