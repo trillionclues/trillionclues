@@ -1,6 +1,21 @@
 
 
-<h1 align="center"> Hi there :octocat:</h1>
+<h1 align="center"> Hi there, I'm Excel Nwachukwu :octocat:</h1>
+<a align="center" href="mailto:exceln646@gmail.com">
+  <img align="left" alt="Excel Nwachukwu" | Email" width="22px" src="https://www.svgrepo.com/show/92674/email.svg" />
+</a>
+<a align="center" href="https://twitter.com/trillionclues" target="_blank">
+  <img align="left" alt="{Excell.near}" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a align="center" href="https://www.linkedin.com/in/trillionclues-excel/" target="_blank">
+  <img align="left" alt="Excel's LinkedIN" | width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+</br>
+
+<p>✨ I'm a frontend engineer and content curator migrating from the energy industry but passionate about making the web accessible and solution-based interfaces to everyone and advocating for early-stage tech integration in our student communities.</p>
+
+<p>I love sharing my knowledge with others, and I do that through content creation on my tech Blog as well as writing technical articles too.</p>
 
 - 🌱 I'm actively learning Javascript...
 - 🌱 while also working on clone projects and side ideas
@@ -8,23 +23,12 @@
  
  </br>
  
- 
-<a align="center" href="mailto:exceln646@gmail.com">
-  <img align="center" alt="Excel Nwachukwu" | Email" width="22px" src="https://www.svgrepo.com/show/92674/email.svg" />
-</a>
-<a align="center" href="https://twitter.com/trillionclues" target="_blank">
-  <img align="center" alt="{Excell.near}" | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a align="center" href="https://www.linkedin.com/in/trillionclues-excel/" target="_blank">
-  <img align="center" alt="Excel's LinkedIN" | width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 
-<!-- 
 ![](https://komarev.com/ghpvc/?username=trillionclues&color=grey&label=PROFILE+VIEWS)
 [![Github](https://img.shields.io/github/followers/trillionclues?label=Follow&style=social)](https://github.com/trillionclues)
 </br>
-<br /> -->
+<br />
 
 
 <!--
