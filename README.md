@@ -18,8 +18,8 @@
 
 - 🌱 I'm actively learning Javascript...
 - 🌱 while also working on clone projects and side ideas.
-- 💬 Ask me anything on FE, Building career choices and Autos.
 - 👯 I’m super excited about collaborating on Open Source Projects
+- 💬 Ask me anything on FE, Building career in tech choices and Autos.
  
 
 
