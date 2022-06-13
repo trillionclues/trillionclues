@@ -11,15 +11,15 @@
  
 </br>
 <div>
-<p>✨ I'm a frontend engineer and content curator transitioning from the energy industry but passionate about making the web accessible and solution-based interfaces to everyone and advocating for early-stage tech integration in our student communities.</p>
+<p>✨ I'm a frontend engineer and content curator transitioning from the energy industry but passionate about an accessible web and mobile interface solution for everyone. I also advocate for early-stage tech integration in student communities. When I'm not coding, I love sharing my knowledge with others through ontent creation on my tech Blog as well as writing technical articles. </p>
 
-<p>I love sharing my knowledge with others, and I do that through content creation on my tech Blog as well as writing technical articles. I'm actively working on my soft skills through conducting community workshops and symposiums for communities and institutions looking to bridge the student knowledge gap on choosing career choices. I mostly find fun playing COD games and exploring new locations when I'm not coding.</p>
+<p>I'm actively working on my soft skills through conducting community workshops and symposiums for communities and institutions looking to bridge the student knowledge gap on choosing career choices. I mostly find my hobbies in playing COD games and exploring new locations.</p>
   </div>
 
 - 🌱 I'm actively learning Javascript...
 - 🌱 while also working on clone projects and side ideas.
-- 👯 I’m super excited about collaborating on Open Source Projects
-- 💬 Ask me anything on FE, Career in tech and Autos.
+- 👯 I’m also super excited about collaborating on Open Source Projects
+- 💬 You can hit me up on anything on FE, Career in tech and Community growth.
  
 
 
