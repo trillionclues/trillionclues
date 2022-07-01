@@ -1,6 +1,6 @@
-### Hi 👋, I'm Excel
+## Hi 👋, I'm Excel
 
-## I'm glad to have you here!
+###Glad to have you here!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
