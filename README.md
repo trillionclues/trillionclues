@@ -15,7 +15,7 @@ I'm a frontend developer passionate for building accessible web and mobile inter
 
 * 👯Also looking to collaborate on **Open source projects**
 
-* 📝 I regularly write articles on [https://trillionclues.medium.com/](https://trillionclues.medium.com/)
+* 📝 I also write technical articles on [Medium](https://trillionclues.medium.com/)
 
 * 💬 Ask me about **Javascript | CSS | Technical Writing**
 
