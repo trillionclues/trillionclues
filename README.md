@@ -22,5 +22,5 @@ I'm a frontend developer passionate for building accessible web and mobile inter
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 
-* [LinkedIn](https://www.linkedin.com/in/trillionclues-excel/) ** [Resume](https://docs.google.com/document/d/1ggnl6FigUQFWcbV0pk4atxfUq-xKS_2LIr-qUUILUh4/edit?usp=sharing) ** [Portfolio](./vanillajs-portfolio)
+* [LinkedIn](https://www.linkedin.com/in/trillionclues-excel/) | [Resume](https://docs.google.com/document/d/1ggnl6FigUQFWcbV0pk4atxfUq-xKS_2LIr-qUUILUh4/edit?usp=sharing) | [Portfolio](./vanillajs-portfolio)
 
