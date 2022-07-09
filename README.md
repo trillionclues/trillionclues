@@ -2,7 +2,7 @@
 
 ### Glad to have you here!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+![Profile views](https://gpvc.arturio.dev/trillionclues) ![Twitter URL](https://img.shields.io/twitter/follow/trillionclues?label=Follow&style=social)
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trillionclues&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&show_icons=true&theme=gotham" align = "center"/>
@@ -11,13 +11,14 @@
 
 I'm a frontend developer passionate for building accessible web and mobile interface solutions. I also advocate for early-stage tech integration in student communities. When I'm not coding, I love sharing my knowledge with others through ontent creation on my tech Blog as well as writing technical articles.</h3>
 
-* 🔭 I’m currently learning Functional programming | Material Design and working with REST APIs
+### Tech & Tools Preference
 
-* 👯Also looking to collaborate on **Open source projects**
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<br>
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-* 📝 I also write technical articles on [Medium](https://trillionclues.medium.com/)
 
-* 📫 How to reach me **exceln646@gmail.com**
-
-
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=trillionclues&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="trillionclues" /></p> -->
