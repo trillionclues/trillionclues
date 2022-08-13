@@ -9,13 +9,14 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=trillionclues&langs_count=8&show_icons=true&locale=en&layout=compact&hide_border=true&theme=gotham" alt="Trend20" align = "center"/>
 </p>
 
-I'm a frontend developer passionate for building accessible web and mobile interface solutions. I also advocate for early-stage tech integration in student communities. When I'm not coding, I love sharing my knowledge with others through ontent creation on my tech Blog as well as writing technical articles.</h3>
+I'm a frontend developer passionate for building accessible web and mobile interface solutions. I also advocate for early-stage tech integration in student communities. When I'm not coding, I love sharing my knowledge with others through content creation on my tech Blog as well as writing technical articles.</h3>
 
 ### Tech & Tools Preference
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="	https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=ffffff">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <br>
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
