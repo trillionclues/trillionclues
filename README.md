@@ -1,6 +1,6 @@
 # Hello, glad to have you here 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Excel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trillionclues-excel)](https://www.linkedin.com/in/trillionclues-excel) [![Twitter Badge](https://img.shields.io/badge/-@trillionclues-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/trillionclues?)](https://twitter.com/trillionclues?) [![Portfolio Badge](https://img.shields.io/badge/-trillionclues.vercel.app-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://trillionclues.vercel.app)](trillionclues.vercel.app)
+<div align="center">[![Linkedin Badge](https://img.shields.io/badge/-Excel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trillionclues-excel)](https://www.linkedin.com/in/trillionclues-excel) [![Twitter Badge](https://img.shields.io/badge/-@trillionclues-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/trillionclues?)](https://twitter.com/trillionclues?) [![Portfolio Badge](https://img.shields.io/badge/-trillionclues.vercel.app-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://trillionclues.vercel.app)](trillionclues.vercel.app)</div>
 
 ![Profile views](https://gpvc.arturio.dev/trillionclues) ![Twitter URL](https://img.shields.io/twitter/follow/trillionclues?label=Follow&style=social)
 
