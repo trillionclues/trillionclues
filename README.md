@@ -1,6 +1,7 @@
 # Hello, glad to have you here 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Excel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trillionclues-excel)](https://www.linkedin.com/in/trillionclues-excel) [![Twitter Badge](https://img.shields.io/badge/-@trillionclues-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/trillionclues?)](https://twitter.com/trillionclues?) [![Portfolio Badge](https://img.shields.io/badge/-https://trillionclues-portfolio.netlify.app-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://trillionclues-portfolio.netlify.app/)](https://trillionclues-portfolio.netlify.app/)
+[![Linkedin Badge](https://img.shields.io/badge/-Excel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trillionclues-excel)](https://www.linkedin.com/in/trillionclues-excel) [![Twitter Badge](https://img.shields.io/badge/-@trillionclues-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/trillionclues?)](https://twitter.com/trillionclues?) [![Portfolio Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://trillionclues-portfolio.netlify.app/)](https://trillionclues-portfolio.netlify.app/)
+
 
 ![Profile views](https://gpvc.arturio.dev/trillionclues) ![Twitter URL](https://img.shields.io/twitter/follow/trillionclues?label=Follow&style=social)
 
@@ -14,7 +15,7 @@ I'm a frontend developer passionate for building accessible web and mobile inter
 ### Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="	https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&logo=boostrap&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
