@@ -10,13 +10,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=trillionclues&langs_count=8&show_icons=true&locale=en&layout=compact&hide_border=true&theme=gotham" alt="Trend20" align = "center"/>
 </p>
 
-I'm a frontend developer passionate for building accessible web and mobile interface solutions. I also advocate for early-stage tech integration in student communities. When I'm not coding, I love sharing my knowledge with others through content creation on my tech Blog as well as writing technical articles.</h3>
+I'm a frontend developer with a strong passion for creating accessible web and mobile interfaces. My enthusiasm extends beyond coding as I actively champion the integration of technology at early stages within student communities. When I step away from the screen, I channel my knowledge into content creation on my tech Blog and crafting detailed technical articles.
 
 ### Tech & Tools Preference
 
-<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563d7c?style=for-the-badge&logo=boostrap&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black">
 <img src="https://img.shields.io/badge/NextJs-323330?style=for-the-badge&logo=nextjs&logoColor=black">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
