@@ -14,17 +14,22 @@ I'm a frontend developer with a strong passion for creating accessible web and m
 
 ### Tech & Tools Preference
 
-<p align="left">
-<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black">
-<img src="https://img.shields.io/badge/NextJs-323330?style=for-the-badge&logo=nextjs&logoColor=black">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
- </p>
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="align-self: flex-start;">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="align-self: flex-start;">
+  <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black" style="align-self: flex-start;">
+  <img src="https://img.shields.io/badge/NextJs-323330?style=for-the-badge&logo=nextjs&logoColor=black" style="align-self: flex-start;">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="align-self: flex-start;">
+</div>
+
 <br>
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" style="align-self: flex-start;">
+  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" style="align-self: flex-start;">
+  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" style="align-self: flex-start;">
+</div>
+
 
 
 <!--  [LinkedIn](https://www.linkedin.com/in/trillionclues-excel/) | [Resume](https://docs.google.com/document/d/1ggnl6FigUQFWcbV0pk4atxfUq-xKS_2LIr-qUUILUh4/edit?usp=sharing) | [Portfolio](https://trillionclues.vercel.app/)
