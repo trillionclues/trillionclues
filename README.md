@@ -1,8 +1,7 @@
 
-## [Trillionclues](https://github.com/trillionclues#trillionclues)
+## [trillionclues](https://github.com/trillionclues#trillionclues)
 
 ### [Software Developer - Web](https://www.github.com/trillionclues#software-developer-web/)
-https://github.com/teddyoweh#software-engineer-ml
 <!-- 
 [![Linkedin Badge](https://img.shields.io/badge/-Excel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trillionclues-excel)](https://www.linkedin.com/in/trillionclues-excel) [![Twitter Badge](https://img.shields.io/badge/-@trillionclues-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/trillionclues?)](https://twitter.com/trillionclues?) [![Portfolio Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://trillionclues.vercel.app/)](https://trillionclues.vercel.app/)
 
