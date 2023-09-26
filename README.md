@@ -1,3 +1,4 @@
+
 ## [Trillionclues](https://github.com/trillionclues#trillionclues)
 
 ### [Software Developer - Web](https://www.github.com/trillionclues#software-developer-web/)
@@ -14,7 +15,7 @@ https://github.com/teddyoweh#software-engineer-ml
 </p>
  -->
 
-I'm a frontend developer with a strong passion for creating accessible web and mobile interfaces. My enthusiasm extends beyond coding as I actively champion the integration of technology at early stages within student communities. When I step away from the screen, I channel my knowledge into content creation on my tech Blog and crafting detailed technical articles.
+As a software developer, my primary focus is on creating accessible web and mobile interfaces. I have a strong foundation in various web technologies and computer science fundamentals, which allows me to effectively design user-centric applications which implementing scalable functions too in an efficient manner. My enthusiasm extends beyond prpgramming as I actively champion the integration of Stem education in underrepresented student communities.
 
 <!-- 
 ### Tech & Tools Preference
