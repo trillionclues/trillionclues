@@ -1,5 +1,5 @@
 
-## [trillionclues](https://github.com/trillionclues#trillionclues)
+## [Trillionclues](https://github.com/trillionclues#trillionclues)
 
 ### [Software Developer - Web](https://www.github.com/trillionclues#software-developer-web/)
 <!-- 
