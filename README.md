@@ -1,5 +1,7 @@
-# Hello, glad to have you here 👋
+## Trillionclues
 
+### [Software Developer - Web](https://www.github.com/software-developer-web/)
+<!-- 
 [![Linkedin Badge](https://img.shields.io/badge/-Excel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trillionclues-excel)](https://www.linkedin.com/in/trillionclues-excel) [![Twitter Badge](https://img.shields.io/badge/-@trillionclues-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/trillionclues?)](https://twitter.com/trillionclues?) [![Portfolio Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://trillionclues.vercel.app/)](https://trillionclues.vercel.app/)
 
 
@@ -9,9 +11,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trillionclues&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&show_icons=true&theme=gotham" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=trillionclues&langs_count=8&show_icons=true&locale=en&layout=compact&hide_border=true&theme=gotham" alt="Trend20" align = "center"/>
 </p>
+ -->
 
 I'm a frontend developer with a strong passion for creating accessible web and mobile interfaces. My enthusiasm extends beyond coding as I actively champion the integration of technology at early stages within student communities. When I step away from the screen, I channel my knowledge into content creation on my tech Blog and crafting detailed technical articles.
 
+<!-- 
 ### Tech & Tools Preference
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
@@ -30,7 +34,7 @@ I'm a frontend developer with a strong passion for creating accessible web and m
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" style="align-self: flex-start;">
 </div>
 
-
+ -->
 
 <!--  [LinkedIn](https://www.linkedin.com/in/trillionclues-excel/) | [Resume](https://docs.google.com/document/d/1ggnl6FigUQFWcbV0pk4atxfUq-xKS_2LIr-qUUILUh4/edit?usp=sharing) | [Portfolio](https://trillionclues.vercel.app/)
  -->
