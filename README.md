@@ -13,8 +13,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=trillionclues&langs_count=8&show_icons=true&locale=en&layout=compact&hide_border=true&theme=gotham" alt="Trend20" align = "center"/>
 </p>
  -->
-
-As a software developer, my primary focus is on creating accessible web and mobile interfaces. I have a strong foundation in various web technologies and computer science fundamentals, which allows me to effectively design user-centric applications which implementing scalable functions too in an efficient manner. My enthusiasm extends beyond prpgramming as I actively champion the integration of Stem education in underrepresented student communities.
+frontend & mobile, product & writing.
+<br>
+football sometimes :)
+<!-- As a software developer, my primary focus is on creating accessible web and mobile interfaces. I have a strong foundation in various web technologies and computer science fundamentals, which allows me to effectively design user-centric applications which implementing scalable functions too in an efficient manner. My enthusiasm extends beyond prpgramming as I actively champion the integration of Stem education in underrepresented student communities. -->
 
 <!-- 
 ### Tech & Tools Preference
