@@ -17,6 +17,18 @@ frontend - (web/mobile), product & writing.
 <br>
 <br>
 football sometimes :)
+<p>
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="Vim" src="https://img.shields.io/badge/Vim-%230A2D62?style=for-the-badge&logo=vim&logoColor=white" />
+</p>
+
+
+<a href="https://twitter.com/trillionclues" target="blank">
+    <img src="https://img.shields.io/twitter/follow/trillionclues?style=flat-square&logo=twitter" alt="trillionclues" />
+</a>
 <!-- As a software developer, my primary focus is on creating accessible web and mobile interfaces. I have a strong foundation in various web technologies and computer science fundamentals, which allows me to effectively design user-centric applications which implementing scalable functions too in an efficient manner. My enthusiasm extends beyond prpgramming as I actively champion the integration of Stem education in underrepresented student communities. -->
 
 <!-- 
